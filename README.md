@@ -1,3 +1,9 @@
+## 👤 Author
+
+**Criz-007**
+- GitHub: [@Criz-007](https://github.com/Criz-007)
+- Date: 2025-10-15
+
 # Miner Health Monitoring System
 
 Real-time health monitoring system for underground miners with intelligent anomaly detection and emergency alerting.
