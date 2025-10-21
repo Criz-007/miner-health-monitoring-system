@@ -210,12 +210,6 @@ Contributions are welcome! Please:
 
 MIT License - see LICENSE file for details
 
-## 👤 Author
-
-**Criz-007**
-- GitHub: [@Criz-007](https://github.com/Criz-007)
-- Date: 2025-10-15
-
 ## 🙏 Acknowledgments
 
 - nRF5 SDK by Nordic Semiconductor
